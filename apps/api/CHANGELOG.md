@@ -1,5 +1,17 @@
 # api
 
+## 0.3.0
+
+### Minor Changes
+
+- [`e6778d2`](https://github.com/nakafaai/nakafa.com/commit/e6778d2db6a60557ae222b2e1b975002339577e4) Thanks [@nabilfatih](https://github.com/nabilfatih)! - Add unit testing for utils functions, proper testing coverage, bump version, add new try out for snbt
+
+### Patch Changes
+
+- Updated dependencies [[`e6778d2`](https://github.com/nakafaai/nakafa.com/commit/e6778d2db6a60557ae222b2e1b975002339577e4)]:
+  - @repo/contents@0.3.0
+  - @repo/backend@1.4.0
+
 ## 0.2.0
 
 ### Minor Changes
