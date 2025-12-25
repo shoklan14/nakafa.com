@@ -1,5 +1,12 @@
 # mcp
 
+## 0.2.1
+
+### Patch Changes
+
+- Updated dependencies [[`e6778d2`](https://github.com/nakafaai/nakafa.com/commit/e6778d2db6a60557ae222b2e1b975002339577e4)]:
+  - @repo/contents@0.3.0
+
 ## 0.2.0
 
 ### Minor Changes
