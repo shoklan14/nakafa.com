@@ -1,5 +1,15 @@
 # @repo/internationalization
 
+## 1.0.0
+
+### Major Changes
+
+- [`c6b51e6`](https://github.com/nakafaai/nakafa.com/commit/c6b51e60d3dd96fd3d148035d19f3c2304145ab7) Thanks [@nabilfatih](https://github.com/nabilfatih)! - Migrate contents to use effect, adding extensive testing, adding cache for building contents, improving performance and type safety
+
+### Patch Changes
+
+- [`e746ef6`](https://github.com/nakafaai/nakafa.com/commit/e746ef6441de79a219289eafef653492b6172685) Thanks [@nabilfatih](https://github.com/nabilfatih)! - Migrate lucide react to hugeicons
+
 ## 0.3.0
 
 ### Minor Changes
